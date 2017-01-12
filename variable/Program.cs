@@ -10,6 +10,7 @@ namespace variable
     {
         static void Main(string[] args)
         {
+            // test 
             int myVar=7;
             Console.WriteLine("der Variable ist = {0}", myVar);
             Console.ReadKey();
